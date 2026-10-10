@@ -1,0 +1,3 @@
+variable "variable_vnet" {
+  
+}
